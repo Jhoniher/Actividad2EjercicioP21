@@ -1,0 +1,2 @@
+public class EjercicioPropuesto21 {
+}
