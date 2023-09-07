@@ -15,7 +15,7 @@ public class EjercicioPropuesto21 {
         double area=Math.sqrt((semiperimetro*(semiperimetro-lado1)*(semiperimetro-lado2)*(semiperimetro-lado3)));
         System.out.println("El perimetro del triangulo es: "+perimetro);
         System.out.println("El semiperimetro del triangulo es: "+semiperimetro);
-        System.out.println("El area del triangulo es: "+area);
+        System.out.println("El area del triangulo es: "+area+ " unidades cuadradas");
 
     }
 }
